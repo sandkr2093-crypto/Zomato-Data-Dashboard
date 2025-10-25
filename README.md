@@ -33,3 +33,14 @@ Votes and Average Cost by Restaurant – dual-axis analysis for popularity vs. p
 ## 🧩 Interactive Filters:
 
 Filter by Online Order, Book Table, and Restaurant Type.
+## Key Insights:
+
+🍴 Onesta is the highest-rated restaurant with a 4.6 rating.
+
+🧾 The average cost for two people across all restaurants is ₹418.24, with Buffet restaurants being the most expensive.
+
+💻 About 39% of restaurants offer online ordering, and they tend to have higher average ratings (3.88) compared to those that don’t (3.48).
+
+📅 Only 5.41% of restaurants provide a table booking option, but those receive higher total votes per restaurant.
+
+🥘 Dining category is the most common restaurant type, accounting for around 74% of total listings.
