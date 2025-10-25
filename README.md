@@ -18,7 +18,7 @@ Online Order % (39.19%)
 
 Book Table % (5.41%)
 
-# 📈 Charts and Visuals:
+## 📈 Charts and Visuals:
 
  Average Cost by Restaurant Type (Buffet, Cafes, Dining, Other)
 
@@ -30,6 +30,6 @@ Number of Restaurants by Type – distribution using a pie chart.
 
 Votes and Average Cost by Restaurant – dual-axis analysis for popularity vs. pricing.
 
-# 🧩 Interactive Filters:
+## 🧩 Interactive Filters:
 
 Filter by Online Order, Book Table, and Restaurant Type.
